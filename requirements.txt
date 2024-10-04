@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+mne
+pycrostates
+seaborn
+scipy
